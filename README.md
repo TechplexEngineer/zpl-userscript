@@ -8,8 +8,6 @@ This repository contains a Tampermonkey userscript (`script.js`) for filling the
 2. Click **Add to Chrome**.
 3. Confirm by clicking **Add extension**.
 
-![Install Tampermonkey in Chrome](assets/readme/01-install-tampermonkey.svg)
-
 Direct link: <https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo>
 
 ## 2) Enable User Scripts in Chrome
@@ -18,15 +16,11 @@ Direct link: <https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhm
 2. Click **Details** on the Tampermonkey extension.
 3. Turn on **Allow User Scripts**.
 
-![Enable user scripts in Chrome](assets/readme/02-enable-user-scripts.svg)
-
 ## 3) Install this userscript in Tampermonkey
 
 1. Open the Tampermonkey dashboard and go to **Utilities**.
 2. Use **Install from URL** and paste the raw URL to this repo's `script.js`.
 3. Click **Install**.
-
-![Install script in Tampermonkey](assets/readme/03-install-userscript.svg)
 
 Raw script URL (main branch):
 
